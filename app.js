@@ -17,7 +17,7 @@ else {
   timeFormat = "AM"
   }
 
-if (hours>12) {
+if (hours>12) {   //tarnary operator use korle short hbe
   hours = hours - 12
   timeFormat = "PM"
   }
