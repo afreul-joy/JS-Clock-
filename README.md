@@ -4,7 +4,7 @@ It's Mini Project
 
 
 
-## Demo
+## live site link
 
 https://afreul-joy.github.io/JS-Clock-/
 
